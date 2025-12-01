@@ -71,6 +71,3 @@ java -jar bajaj-test-1.0.0.jar
 **Repository:** https://github.com/Umang6124/Java_Qualifier.git  
 **JAR Download:** https://github.com/Umang6124/Java_Qualifier/releases/download/v1.0.0/bajaj-test-1.0.0.jar
 
----
-
-**Status:** ✅ READY FOR SUBMISSION
