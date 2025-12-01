@@ -8,7 +8,6 @@
 
 **Release Version:** v1.0.0  
 **File Size:** 18.2 MB  
-**Status:** ✅ Ready to Submit
 
 ---
 
@@ -26,15 +25,6 @@ Spring Boot application for **Bajaj Finserv Health API Test** that:
 - **Name:** Umang Patwari
 - **Registration Number:** 22BLC1278
 - **Email:** umangpatwari2082003@gmail.com
-- **Question:** Question 2 (Even number)
-
----
-
-## 🚀 How to Run
-
-```bash
-java -jar bajaj-test-1.0.0.jar
-```
 
 ---
 
@@ -45,27 +35,6 @@ java -jar bajaj-test-1.0.0.jar
 - ✅ Source code (TAR.GZ)
 
 ---
-
-## 🛠️ Technology Stack
-
-- Java 11+
-- Spring Boot 3.1.5
-- Maven
-- JWT Authentication
-- Lombok
-
----
-
-## 📝 Features
-
-✅ REST API Integration  
-✅ Webhook generation  
-✅ SQL problem solving  
-✅ JWT token authentication  
-✅ Automatic execution on startup  
-
----
-
 ## 🔗 Submission Links
 
 **Repository:** https://github.com/Umang6124/Java_Qualifier.git  
